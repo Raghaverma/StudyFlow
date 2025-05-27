@@ -1,0 +1,1 @@
+// Environment variables and database config placeholder 
